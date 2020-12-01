@@ -1,4 +1,4 @@
-Hello this is the initial file for the git
+majaHello this is the initial file for the git
 mohit is doing git
 Student in ITM
 bhai
